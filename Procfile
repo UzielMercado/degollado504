@@ -1,0 +1,1 @@
+web: gunicorn degollado504.wsgi

@@ -1,0 +1,3 @@
+recursive-include degollado504/static *
+recursive-include degollado504/assets *
+recursive-include degollado504/templates *
