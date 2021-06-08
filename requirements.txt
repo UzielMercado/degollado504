@@ -1,5 +1,5 @@
 # cryptography is required for heroku deployment
-Pillow==5.0.0
+Pillow==8.2.0
 coverage==3.6
 django==2.0.13
 django-ckeditor==5.4.0
